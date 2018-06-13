@@ -1,0 +1,3 @@
+Napisz program, który po³¹czy siê z baz¹ danych MongoDB a nastêpnie pobierze od u¿ytkownika imiê, nazwisko i wiek a nastêpnie zapisze je w bazie danych. Dodaj w ten sposób 10 u¿ytkowników.
+Napisz program, który wyœwietli wszystkie rekordy z bazy MongoDB
+Napisz program, który wyœwietli tylko dokumenty z bazy, których wiek jest wiêkszy ni¿ 15 lat.
